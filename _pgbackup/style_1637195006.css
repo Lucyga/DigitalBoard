@@ -1,0 +1,9 @@
+@media (min-width:576px) and (max-width:767px) {
+    .titolo {
+    }
+
+    titolo {
+        font-family: 'Comfortaa', cursive;
+        font-size: 21px;
+    }
+}

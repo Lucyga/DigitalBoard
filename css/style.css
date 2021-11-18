@@ -1,0 +1,9 @@
+.titolo {
+  font-family: "Comfortaa", cursive;
+}
+
+@media (max-width: 767px) {
+  .titolo {
+    font-size: 18px;
+  }
+}
